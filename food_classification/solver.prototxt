@@ -1,0 +1,11 @@
+train_net: "train.prototxt"
+test_net: "test.prototxt"
+test_iter: 100
+test_interval: 1000
+base_lr: 0.0003000000142492354
+max_iter: 10000
+lr_policy: "step"
+gamma: 0.44999998807907104
+momentum: 0.8999999761581421
+weight_decay: 0.0005000000237487257
+stepsize: 6
